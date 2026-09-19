@@ -1,0 +1,23 @@
+# Environment configuration
+python-dotenv
+
+# PDF processing
+pymupdf
+
+# LangChain
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+
+# OpenAI - embeddings and LLM
+openai
+
+# Vector database
+faiss-cpu
+
+# Knowledge Graph
+neo4j
+
+# Frontend
+streamlit
